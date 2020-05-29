@@ -1,4 +1,4 @@
-0.2.19-Created an actual changelog file, deleted old images, updated Energy Shield MK3 icon to fall in line with vanilla changes, updated Battery MK3 (Fusion Battery) images.
+0.2.19-Created an actual changelog file, deleted old images, updated Energy Shield MK3 and Fusion Battery images.
 
 0.2.18-Updated Russian locale, adjusted tech prerequisites to account for disabled items being absent. Thanks to GRIFV once again for translation work and feedback.
 
